@@ -1,0 +1,12 @@
+{
+  "name": "atlantis.dev",
+  "homepage": "http://atlantis.dev/",
+  "authors": [
+    "jibin <jibin@2hatslogic.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+   
+  }
+}
